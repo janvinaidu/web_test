@@ -82,11 +82,7 @@
 
 # 6. Citation
 
-Earth image:
-https://earth.google.com/web
-
-X-Men image:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Fentertainment%2Fa34773910%2Fx-men-movie-order%2F&psig=AOvVaw2ldcTVfbYTjRs34kqN2iiS&ust=1747758677875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNithMv6r40DFQAAAAAdAAAAABAE
+Background: https://www.self.com/story/how-to-pick-the-best-apples
 
 Code reference:
 
