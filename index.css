@@ -75,7 +75,7 @@ body {
     top:0;
     text-align:center;
     z-index:1;
-    color:#fff;
+    color:#00B496;
     padding-bottom:10vh;
 }
 #middle h1 {
@@ -89,7 +89,7 @@ body {
     text-align: center;
     font-size: 25px;
     background: transparent;
-    color: #fff;
+    color: #00B496;
     position: fixed;
     top: 0;
     right: 45vw;
@@ -108,7 +108,7 @@ body {
     font-size:25px;
     transform:rotate(-90deg);
     background:transparent;
-    color:#fff;
+    color:#00B496;
     position:fixed;
     left:0;
     bottom:40vh;
@@ -126,7 +126,7 @@ body {
     font-size:25px;
     transform:rotate(90deg);
     background:transparent;
-    color:#fff;
+    color:#00B496;
     position:fixed;
     right:0;
     bottom:40vh;
@@ -143,7 +143,7 @@ body {
     text-align:center;
     font-size:25px;
     background:transparent;
-    color:#fff;
+    color:#00B496;
     position:fixed;
     bottom:0;
     left:45vw;
@@ -178,7 +178,7 @@ body {
     text-align:center;
 }
 .social {
-    color:#fff;
+    color:#00B496;
     font-size:22px;
     border-radius:50%;
     transition:0.4s ease-in-out;
@@ -194,7 +194,7 @@ body {
     height:90vh;
     padding:5vh 5vw;
     background:rgb(11, 11, 11);
-    color:#fff;
+    color:#00B496;
     z-index:9;
     position:fixed;
     max-height:100vh;
@@ -216,7 +216,7 @@ body {
     font-size:14px !important;
     display:inline-block;
     padding:8px 10px;
-    border:2px solid #fff;
+    border:2px solid #00B496;
     margin:0px 10px;
     border-radius:50px;
 }
@@ -236,9 +236,9 @@ body {
 .btn_one {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:#fff;
+    color:#00B496;
     background:transparent;
-    border:3px solid #fff;
+    border:3px solid #00B496;
     padding:8px 40px;
     border-radius:80px;
     font-weight:bold;
@@ -248,7 +248,7 @@ body {
 .btn_one:hover {
     cursor:pointer;
     color:rgb(50, 245, 255);
-    background:#fff;
+    background:#00B496;
 }
 .btn_two {
     font-size:18px;
