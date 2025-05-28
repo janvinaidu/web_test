@@ -25,7 +25,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid #fff;
+    border:12px solid #00B496;
     border-bottom:12px solid rgb(79, 98, 85);
     border-radius:50%;
     margin:0;
@@ -62,7 +62,7 @@ body {
 #menu a {
     margin:0px 6%;
     font-size:19px;
-    color:#fff;
+    color:#00B496;
     text-decoration:underline;
 }
 #middle {
