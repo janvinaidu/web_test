@@ -84,6 +84,12 @@
 
 Background: https://www.self.com/story/how-to-pick-the-best-apples
 
+Link to Apples: https://en.wikipedia.org/wiki/Apple
+
+History of apples: https://vermontapples.org/all-about-apples/a-brief-history-of-apples/
+
+PDF: https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00617/full
+
 Code reference:
 
 https://github.com/ndoherty-xyz/unemployables-portfolio-template
